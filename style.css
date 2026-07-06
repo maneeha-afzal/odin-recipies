@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(161, 207, 207);
+    font-family:Arial, Helvetica, sans-serif
+}
+h1{
+    text-align: center;
+    background-color: rgb(53, 110, 110);
+    color: white;
+    padding: 20px;
+    font-size: 50px;
+}
+p{
+    font-size: 30px;
+    color:rgb(28, 59, 59);
+    text-align: center;
+    border: 1px solid rgb(28, 59, 59);
+}
+li{
+    display:block;
+    background-color: rgb(136, 180, 185);
+    color:wheat;
+    margin: 10px ;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+
+}
+ol{
+    box-sizing: border-box;
+    height: auto;
+    width: auto;
+    background-color: rgb(53, 110, 110);
+    padding: 10px;
+    margin: 100px;
+}
